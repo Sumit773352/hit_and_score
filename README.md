@@ -1,1 +1,2 @@
-# hit_and_score
+# Bubble_game
+A Small Bubble Game For Learning JS
